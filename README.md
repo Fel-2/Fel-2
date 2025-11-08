@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="[Link to a cool header image or GIF]" alt="Header"/>
-</div>
-
 <pre>
   
   <samp>
