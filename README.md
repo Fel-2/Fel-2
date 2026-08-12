@@ -10,7 +10,7 @@
 
   <b><span style="color: #8AE234;">Fel</span>@Yog-Sothoth</b>
   ---------------------------------
-  <b>OS:</b> Arch Linux
+  <b>OS:</b> Artix Linux
   <b>Shell:</b> Zsh
   <b>DE:</b> Hyprland
   
